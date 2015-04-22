@@ -6,6 +6,7 @@
     <adapter factory=".general.NullZipRepresentation" />
 
     <!-- Arechetypes default representations -->
+    <adapter factory=".archetypes.PageZipRepresentation" />
     <adapter factory=".archetypes.FolderZipRepresentation" />
     <adapter factory=".archetypes.FileZipRepresentation" />
     <adapter factory=".archetypes.ImageZipRepresentation" />
